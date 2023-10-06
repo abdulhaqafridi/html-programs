@@ -1,12 +1,18 @@
+
 <style>
 
-h3,h2{
-    color: aqua;
+h3
+{
+    
+    color: rgb(134, 222, 222);
     background-color: rgb(85, 77, 77);
+   
 }
 body{
     background-color: bisque;
-    
+   ;
+
 
 }
-</style>
+
+<style>
